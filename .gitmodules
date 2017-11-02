@@ -1,6 +1,6 @@
 [submodule "src/qhexview"]
 	path = src/qhexview
-	url = https://github.com/eteran/qhexview.git
+	url = https://github.com/qutorial/qhexview.git
 [submodule "src/qjson4"]
 	path = src/qjson4
-	url = https://github.com/eteran/qjson4.git
+	url = https://github.com/qutorial/qjson4.git
